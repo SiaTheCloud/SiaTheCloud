@@ -1,6 +1,6 @@
 # The Cloud
 
-## website: https://siathecloud/github.io
+## website: https://siathecloud.github.io/
 
 Legal form	Limited liability company (SIA)
 
