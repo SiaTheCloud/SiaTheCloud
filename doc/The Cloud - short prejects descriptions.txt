@@ -1,0 +1,44 @@
+“The Cloud” is a startup that deals with the digitalization of business processes, focused on cybersecurity. It creates devices (private clouds for data/file storage and telemetry collection) and software tools oriented to the new European regulation on digital resilience (DORA).
+I'll make a little introduction: I'm a technician, I make products in any sector, especially in the cybersecurity sector.
+
+This is a partial list of projects completed by The Cloud:
+
+Project 1:
+Following the Datagate (journalistic investigation that won the Pulitzer) it was discovered that practically all multinationals in the cloud sector, regarding the data stored, do intelligence espionage, user profiling and industrial espionage without the knowledge of the users. I created two cloud platforms, consumer and enterprise, which are in fact a private cloud (a device) that allows you to store data without giving it to third parties, with stealth technology (which allows you to hide and make your own files disappear), and virtualization technology that allows you to work on your own files and documents without leaving computer traces.
+
+Project 2:
+Messaging software similar to Telegram, with a greater focus on security, and focused on military use and in environments where confidentiality is a priority. The software is designed according to the "trustless" concept, so it has no backend (there is no user database), and can use the private cloud to circulate communications, which in any case are never saved anywhere on the backend side, and the encryption keys are changed for each message.
+
+Project 3:
+A library for encrypted interconnection of IOT devices. This unique software allows devices that do not have a static IP, and in motion, to always be able to communicate with each other and to communicate that control infrastructure, all with a level of encryption of military grade.
+
+Project 4:
+An artificial intelligence project, where the software is able to automatically and very precisely realize the front end of the software and all the communication mechanisms with the backend, simply by analyzing the backend assembly (this project is the only one in beta version, as I do not have the capital to bring it to production).
+
+Project 5:
+Derived Key System for Protection against Quantum Computer Attacks:
+Protection against cyberattacks with quantum computers is an explicit objective of the European Union (EU). The EU has recognised the importance of ensuring cybersecurity and the resilience of its critical infrastructure in the face of the emergence of quantum computing technology.
+In 2019, the European Commission published a Quantum Security Strategy, which aims to ensure that the EU is at the forefront of the development and adoption of secure quantum technologies, as well as to protect its critical infrastructure from quantum threats. The strategy focuses on three main areas:
+1. Research and innovation: The EU is investing in research and development of secure quantum technologies, such as post-quantum cryptography and quantum random number generation.
+2. Standards and certification: The EU is developing standards and certification for secure quantum technologies, in order to ensure interoperability and trust in quantum technologies.
+3. Cybersecurity: The EU is developing measures to protect its critical infrastructure from quantum threats, such as creating a quantum safety certification framework and promoting quantum safety awareness among policymakers and operators of critical infrastructure.
+In addition, the EU has launched the Quantum Flagship, a €1 billion funding programme to promote research and innovation in quantum technologies in Europe. The Quantum Flagship aims to strengthen European leadership in quantum technologies and ensure that Europe is well positioned to address the challenges and opportunities of quantum technology.
+
+Project 6:
+Passphrase keeper: A trustless system for saving passphrases, and maintaining them. A passphrase is a set of words that is used for the recovery of digital assets. This work builds on academic research in cryptography that led to the realization of the candidate algorithm as Argon3 and made it available to the computer science research community through open source code.
+
+Project 7:
+"Standard Digital Signature" is a project that aims to standardize digital identity and its integration on blockchain technology for notarial functions, certain date, etc..
+This project represents an evolution compared to the current technology and is expected to be integrated with a new type of blockchain technology that we are developing.
+Digital identity will have significant impacts on the policies and objectives of the United Nations Sustainable Development Goals (SDGs). Here are some key points:
+
+    • Access to Services: Digital identity will enable more people to access essential services, such as healthcare, education and financial services. This will contribute to the achievement of the SDGs related to health, education and equality.
+    • Financial Inclusion: Digital identity will foster financial inclusion, enabling people to participate in the banking system and access financial services. This is crucial for the SDGs that aim to reduce poverty and promote economic prosperity.
+    • Administrative Efficiency: Digital identity will simplify administrative procedures, improving the efficiency of public services. This will contribute to the SDGs related to governance and sustainable management of resources.
+    • Data Protection: Responsible implementation of digital identity will ensure the privacy and security of personal data. This is crucial for the SDGs that promote peace, justice and strong institutions.
+Peculiarities:
+The project aims to create a new evolution (generation 2.0) of the concept of digital identity, with greater relevance to the GDPR directives, introduces the concept of anonymous digital identity, based on the principle that whoever has the private encryption key (which represents the digital identity), if requested can demonstrate a posteriori their real identity (with a signature) and this methodology even if not currently conceived can already be valid through a simple forensic test.
+Anonymous digital identity guarantees greater privacy. By assigning the anonymous digital identity to a KYC procedure, it is possible to create anagraphic digital identities.
+The system is already integrated with Blockchain technology, the author was supervisor of the European study group for the implementation of a European blockchain, and is currently developing a blockchain created to perfectly integrate notarial functions, traceability, date-certain tools and highly innovative blockchain services such as pension fund management, and the decentralization of public utility services (a tool that would allow the system to be non-corruptible).
+The project includes many improvements compared to the solutions adopted by individual European states, such as, for example, it does not require the installation of specific software for reading the signed document as the signature is in a separate file (backward compatibility with existing document viewers), it introduces the date-certain system in blockchain and as soon as we have completed the European blockchain it will be integrated with it with the new features related to the surrogate of notarial functions in digital format.
+The project was conceived to give digital identity not only to biological subjects but also to AI and automatons, and a 12-word passphrase can allow the recovery of the same between one device and another.
